@@ -6,7 +6,6 @@ Welcome to the NerdQuizz, a Unity-based quiz game with a geeky theme! Test your 
 - [Overview](#overview)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 
 ## Overview
